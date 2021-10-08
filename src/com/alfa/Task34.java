@@ -1,9 +1,9 @@
 package com.alfa;
 
-import com.alfa.work5.Runner;
+import com.alfa.work6.Runner;
 
 public class Task34 {
-    public static void main(String[] args) throws InterruptedException {
+    public static void main(String[] args) {
 	new Runner().run();
     }
 }
